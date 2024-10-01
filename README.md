@@ -14,7 +14,4 @@ Object-Oriented Design: Utilized key OOP concepts like classes, inheritance, and
 Dynamic Memory Management: Managed game objects using dynamic memory allocation, ensuring efficient use of system resources and smooth gameplay.
 Pathfinding Algorithms: Employed algorithms like BFS (Breadth-First Search) or DFS (Depth-First Search) for ghost movement and intelligent chasing patterns.
 Optimized Game Loop: Built an efficient game loop for handling real-time player input, game state updates, and screen rendering at smooth frame rates.
-Future Enhancements:
-Multiplayer Mode: Potential expansion to support local or online multiplayer functionality.
-Improved AI: Plans to refine ghost AI using more advanced pathfinding techniques or machine learning.
-Additional Levels: Option to introduce custom level designs with user-generated content.
+
